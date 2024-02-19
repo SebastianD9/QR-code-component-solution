@@ -1,4 +1,8 @@
 # Frontend Mentor - QR code component
+My solution:
+
+https://sebastiand9.github.io/QR-code-component-solution/ 
+
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
